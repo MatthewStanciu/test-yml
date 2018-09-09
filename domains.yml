@@ -119,6 +119,10 @@ k1._domainkey:
   ttl: 1
   type: CNAME
   value: dkim.mcsv.net.
+kewthljh:
+  ttl: 1
+  type: CNAME
+  value: wlcat.club.
 kf2tzvncx46ahlhuev6kusbvg5hmymau._domainkey:
   ttl: 1
   type: CNAME
