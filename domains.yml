@@ -173,6 +173,10 @@ qrqrqrqrs:
   ttl: 1
   type: CNAME
   value: wlcat.club.
+rrrrrrrrrrrr:
+  ttl: 1
+  type: CNAME
+  value: wlcat.club.
 schacks:
 - type: CNAME
   value: schacks.netlify.com.
