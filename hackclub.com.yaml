@@ -203,3 +203,7 @@ testing.mail:
 - ttl: 1
   type: TXT
 value: v=spf1 include:mailgun.org ~all
+westlafayette:
+  ttl: 1
+  type: CNAME
+  value: wlcat.club.
