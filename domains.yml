@@ -60,6 +60,10 @@ app:
   ttl: 1
   type: CNAME
   value: hackclub.netlify.com.
+arr:
+  ttl: 1
+  type: CNAME
+  value: wlcat.club
 bank:
   ttl: 1
   type: CNAME
