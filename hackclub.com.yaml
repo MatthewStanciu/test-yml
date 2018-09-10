@@ -188,6 +188,10 @@ shop:
   ttl: 1
   type: CNAME
   value: hackclub-shop.netlify.com.
+subdomain:
+  ttl: 1
+  type: CNAME
+  value: host.
 testing.mail:
 - ttl: 1
   type: MX
